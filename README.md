@@ -33,7 +33,7 @@ optsens-gtm/
 
 ## Documentation
 
-https://docs.optsens.com/integrations/google-tag-manager
+https://docs.optsens.com/docs/install/google-tag-manager
 
 ## License
 
