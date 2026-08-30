@@ -1,5 +1,5 @@
 homepage: "https://optsens.com"
-documentation: "https://docs.optsens.com/integrations/google-tag-manager"
+documentation: "https://docs.optsens.com/docs/install/google-tag-manager"
 versions:
-  - sha: PLACEHOLDER_COMMIT_SHA
+  - sha: bdb83263ef7b9ed581116ba580864f10a528b396
     changeNotes: "Initial release - Google Consent Mode v2, IAB TCF 2.3 support, region-specific defaults."
